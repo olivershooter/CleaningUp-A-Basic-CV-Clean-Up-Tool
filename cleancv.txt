@@ -1,0 +1,5 @@
+Smith0001,John,1 Whatever Street,Degree in Computer Science,Data Analyst,5,Computer programmer,2,smithj@gmail.com,
+Harrison0002,Jane,None,harrisonj@gmail.com,
+Jones0003,Richard,2 Whatever Street,Masters in Computer Science,Operator,10,Computer programmer,2,jonesr@gmail.com,
+Ngomi0004,Mary,3 Whatever Street,Degree in Computer Science,Programmer,10,ngomim@gmail.com,
+Chen0005,Chris,4 Whatever Street,Masters in Computer Science,Programmer,7,chenc@gmail.com,
