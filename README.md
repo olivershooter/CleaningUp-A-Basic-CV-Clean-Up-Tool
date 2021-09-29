@@ -1,4 +1,4 @@
-# CleaningUp A Basic CV Clean Up Tool
+# CleaningUp - A Basic CV Clean Up Tool
 
 <img align="center" src="images/1.png" alt="Logo" width="300" height="300"> <img align="center" src="images/2.png" alt="Logo" width="300" height="300">
 <br>
