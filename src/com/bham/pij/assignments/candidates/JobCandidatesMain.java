@@ -1,5 +1,4 @@
-package com.bham.pij.assignments.candidates;
-//Oliver Shooter 2244190
+
 
 public class JobCandidatesMain {
 
